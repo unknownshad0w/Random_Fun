@@ -1,0 +1,51 @@
+body{
+    background-color: black;
+}
+
+
+
+
+ul
+ { list-style-type: none;
+margin: 0;
+padding: 0; 
+overflow: hidden; 
+background-color: rgb(226, 32, 210); } 
+
+
+li{ float:left; 
+color: rgb(35, 241, 52); 
+text-align: center;
+padding: 14px 16px;
+text-decoration: none;
+} 
+
+
+li a:hover 
+{
+    color:#0000ff;
+    background-color:#39ff14; 
+}
+
+
+
+h1{
+color: #39ff14;
+}
+
+.navbar{
+overflow: hidden;
+}
+
+p {
+    color:fuchsia;
+}
+
+
+
+
+button{
+ font-size: 20px;
+ border-radius: 12px;
+ background-color:#39ff14;
+}
